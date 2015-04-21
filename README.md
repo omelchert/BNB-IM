@@ -1,1 +1,20 @@
 # BNB-IM
+
+Output should read:
+
+# BRANCH-AND-BOUND ENUMERATION OF SPIN CONFIGURATIONS TO
+# YIELD GROUNDSTATE OF ISING MODELS WITH BOND CONFIGURATION
+# AND LOCAL FIELDS AS SPECIFIED IN BOND-FILE: ./example_KH1978.cfg
+
+# LOWER BOUND: EMin =  -45
+# UPPER BOUND: EMax =  -25
+
+# ALL CFGS WITH E<=EMax (FIRST LISTED = GROUNDSTATE):
+
+# E = -25 :
+   # (idx): (cfg)
+     1:  +++--
+
+# E = -21 :
+   # (idx): (cfg)
+     1:  +-++-
